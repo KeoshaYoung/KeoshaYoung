@@ -9,3 +9,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a HUGE sneakerhead!
 
+---
+[![python](https://user-images.githubusercontent.com/107516477/198753588-a3cc9a80-5a80-4bb6-917f-44ed3b478f57.png)][1][![javascript](https://user-images.githubusercontent.com/107516477/198753674-97038c08-2473-4408-9dcd-e105f828c871.png)][2]
+---
