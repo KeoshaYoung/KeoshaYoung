@@ -10,5 +10,7 @@
 - ⚡ Fun fact: I'm a HUGE sneakerhead!
 
 ---
-
+- Ruby  - Javascript  - Python  - SQL  - HTML - CSS 
+- Ruby on Rails  - Vue.js  - React  - Bootstrap 
+- PostGRES  - APIs  - Git  - GitHub
 ---
