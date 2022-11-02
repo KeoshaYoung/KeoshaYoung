@@ -11,6 +11,6 @@
 
 ---
 - Ruby  - Javascript  - Python  - SQL  - HTML - CSS 
-- Ruby on Rails  - Vue.js  - React  - Bootstrap 
+- Rails  - Vue  - React  - Bootstrap 
 - PostGRES  - APIs  - Git  - GitHub
 ---
